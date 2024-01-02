@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chazz-bunn
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning Java full-stack
-- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
+- 💞️ I’m looking to collaborate on ¯\\_(ツ)_/¯
 - 📫 How to reach me darrylcbunn@gmail.com
 
 <!---
