@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chazz-bunn
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently training in working on big data
+- 🌱 I’m currently working in big data
 - 💞️ I’m looking to collaborate on ¯\\_(ツ)_/¯
 - 📫 How to reach me darrylcbunn@gmail.com
 
